@@ -86,7 +86,7 @@ author:
   location         : "Tsukuba, Ibaraki, Japan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.co.jp/citations?user=s4OAeDsAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.co.jp/citations?hl=ja&user=s4OAeDsAAAAJ"
   email            : "sugimoto.takuya.gn@u.tsukuba.ac.jp"
   researchgate     : "https://www.researchgate.net/profile/Takuya-Sugimoto-3"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
