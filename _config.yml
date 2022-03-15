@@ -85,8 +85,8 @@ author:
   bio              : "Assistant Professor"
   location         : "Tsukuba, Ibaraki, Japan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.co.jp/citations?hl=ja&user=s4OAeDsAAAAJ"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://www.google.com/url?q=https%3A%2F%2Fscholar.google.co.jp%2Fcitations%3Fuser%3Ds4OAeDsAAAAJ%26hl%3Dja&sa=D"
   email            : "sugimoto.takuya.gn@u.tsukuba.ac.jp"
   researchgate     : "https://www.researchgate.net/profile/Takuya-Sugimoto-3"
   uri              :
